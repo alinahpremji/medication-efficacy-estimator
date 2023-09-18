@@ -1,0 +1,23 @@
+{
+  "medications": [
+    {
+      "name": "name0",
+      "categories":[{"rankings":[],"name":"sleep"},{"rankings":[],"name":"mood"},{"rankings":[],"name":"effectiveness"}]
+    },
+    {
+      "name": "name3",
+      "categories":[{"rankings":[1],"name":"sleep"},{"rankings":[2],"name":"mood"},{"rankings":[3],"name":"effectiveness"}]
+    }
+  ],
+  "names": [
+    {
+      "name": "name0"
+    },
+    {
+      "name": "name3"
+    }
+  ]
+}
+
+// CITATION: layouts of data files are copied from those in "JsonSerializationDemo - WorkRoomApp",
+// as presented in the "Phase 2. Data Persistence" module for the course "CPSC 210" (UBC, 2023)
