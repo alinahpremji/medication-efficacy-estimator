@@ -62,8 +62,7 @@ public class Category implements Writable {
         }
         return average;
     }
-
-
+    
     // CITATION: the following method is based off toJson() in "JsonSerializationDemo - WorkRoomApp", as presented
     // in the "Phase 2. Data Persistence" module for the course "CPSC 210" (UBC, 2023)
 
